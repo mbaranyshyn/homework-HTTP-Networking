@@ -1,10 +1,12 @@
 
-1)Як ви виявили метод POST?
-Виявила де використовується метод POST за допомогою  DevTools
-2)Список веб-сайтів де використовується метод POST:
-1)	https://www.instagram.com/ (форма реєстрації)
-2)	https://accounts.google.com/SignUp?continue=https%3A%2F%2Fwww.google.com.ua%2F%3Fgws_rd%3Dssl&hl=uk (створити акант)
-3)	https://ticket2.uz.gov.ua/uk/wk92/ (форма оплати квитка на сайті Укрзалізниці)
-4)	https://www.booking.com/searchresults.uk.html?aid=376445;label=bookings-naam-K_TOiqmNVKmNm%2AeWUEBJhQS193330507350%3Apl%3Ata%3Ap1%3Ap21%2C717%2C000%3Aac%3Aap1t1%3Aneg%3Afi%3Atiaud-285284110766%3Akwd-65526620%3Alp1012859%3Ali%3Adec%3Adm;sid=4d1680763b7693af52ca3e2ded55397d;checkin_month=3;checkin_monthday=24;checkin_year=2018;checkout_month=3;checkout_monthday=25;checkout_year=2018;class_interval=1;dest_id=900048133;dest_type=city;dtdisc=0;from_sf=1;group_adults=2;group_children=0;inac=0;index_postcard=0;label_click=undef;no_rooms=1;offset=0;postcard=0;raw_dest_type=city;room1=A%2CA;sb_price_type=total;search_selected=1;src=index;src_elem=sb;ss=%D0%91%D1%83%D0%BA%D0%BE%D0%B2%D0%B5%D0%BB%D1%8C%2C%20%D0%86%D0%B2%D0%B0%D0%BD%D0%BE-%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%2C%20%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0;ss_all=0;ss_raw=%D0%91%D1%83%D0%BA%D0%BE;ssb=empty;sshis=0& (реєстація або вхід на booking.com)
-5)	http://lady.tochka.net/73460-5-modnykh-ottenkov-manikyura-kotorye-nuzhno-povtorit-vesnoy/?utm_referrer=https%3A%2F%2Fzen.yandex.com (внизу сторінки форма для того, щоб залишити коментар)
+1)РЇРє РІРё РІРёСЏРІРёР»Рё РјРµС‚РѕРґ POST?
+Р’РёСЏРІРёР»Р° РґРµ РІРёРєРѕСЂРёСЃС‚РѕРІСѓС”С‚СЊСЃСЏ РјРµС‚РѕРґ POST Р·Р° РґРѕРїРѕРјРѕРіРѕСЋ  DevTools
+2)РЎРїРёСЃРѕРє РІРµР±-СЃР°Р№С‚С–РІ РґРµ РІРёРєРѕСЂРёСЃС‚РѕРІСѓС”С‚СЊСЃСЏ РјРµС‚РѕРґ POST:
+1)	https://www.instagram.com/ (С„РѕСЂРјР° СЂРµС”СЃС‚СЂР°С†С–С—)
+2)	https://accounts.google.com/SignUp?continue=https%3A%2F%2Fwww.google.com.ua%2F%3Fgws_rd%3Dssl&hl=uk (СЃС‚РІРѕСЂРёС‚Рё Р°РєР°РЅС‚)
+3)	https://ticket2.uz.gov.ua/uk/wk92/ (С„РѕСЂРјР° РѕРїР»Р°С‚Рё РєРІРёС‚РєР° РЅР° СЃР°Р№С‚С– РЈРєСЂР·Р°Р»С–Р·РЅРёС†С–)
+4)	https://www.booking.com/searchresults.uk.html?aid=376445;label=bookings-naam-K_TOiqmNVKmNm%2AeWUEBJhQS193330507350%3Apl%3Ata%3Ap1%3Ap21%2C717%2C000%3Aac%3Aap1t1%3Aneg%3Afi%3Atiaud-285284110766%3Akwd-65526620%3Alp1012859%3Ali%3Adec%3Adm;sid=4d1680763b7693af52ca3e2ded55397d;checkin_month=3;checkin_monthday=24;checkin_year=2018;checkout_month=3;checkout_monthday=25;checkout_year=2018;class_interval=1;dest_id=900048133;dest_type=city;dtdisc=0;from_sf=1;group_adults=2;group_children=0;inac=0;index_postcard=0;label_click=undef;no_rooms=1;offset=0;postcard=0;raw_dest_type=city;room1=A%2CA;sb_price_type=total;search_selected=1;src=index;src_elem=sb;ss=%D0%91%D1%83%D0%BA%D0%BE%D0%B2%D0%B5%D0%BB%D1%8C%2C%20%D0%86%D0%B2%D0%B0%D0%BD%D0%BE-%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%2C%20%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0;ss_all=0;ss_raw=%D0%91%D1%83%D0%BA%D0%BE;ssb=empty;sshis=0& (СЂРµС”СЃС‚Р°С†С–СЏ Р°Р±Рѕ РІС…С–Рґ РЅР° booking.com)
+5)	http://lady.tochka.net/73460-5-modnykh-ottenkov-manikyura-kotorye-nuzhno-povtorit-vesnoy/?utm_referrer=https%3A%2F%2Fzen.yandex.com (РІРЅРёР·Сѓ СЃС‚РѕСЂС–РЅРєРё С„РѕСЂРјР° РґР»СЏ С‚РѕРіРѕ, С‰РѕР± Р·Р°Р»РёС€РёС‚Рё РєРѕРјРµРЅС‚Р°СЂ)
+
+
 
